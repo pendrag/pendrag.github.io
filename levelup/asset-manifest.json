@@ -1,17 +1,17 @@
 {
   "main.css": "/levelup/static/css/main.6c02af24.chunk.css",
-  "main.js": "/levelup/static/js/main.b2c27c0e.chunk.js",
-  "main.js.map": "/levelup/static/js/main.b2c27c0e.chunk.js.map",
+  "main.js": "/levelup/static/js/main.5cc90072.chunk.js",
+  "main.js.map": "/levelup/static/js/main.5cc90072.chunk.js.map",
   "static/css/1.262dcfa1.chunk.css": "/levelup/static/css/1.262dcfa1.chunk.css",
   "static/js/1.a7f70fb6.chunk.js": "/levelup/static/js/1.a7f70fb6.chunk.js",
   "static/js/1.a7f70fb6.chunk.js.map": "/levelup/static/js/1.a7f70fb6.chunk.js.map",
   "runtime~main.js": "/levelup/static/js/runtime~main.6f92c0d0.js",
   "runtime~main.js.map": "/levelup/static/js/runtime~main.6f92c0d0.js.map",
   "static/media/stairs.jpg": "/levelup/static/media/stairs.7b1ff811.jpg",
-  "static/media/bootstrap-icons.css": "/levelup/static/media/bootstrap-icons.a6a4862c.woff",
-  "static/css/main.6c02af24.chunk.css.map": "/levelup/static/css/main.6c02af24.chunk.css.map",
+  "static/media/bootstrap-icons.css": "/levelup/static/media/bootstrap-icons.b57a5890.woff2",
   "static/css/1.262dcfa1.chunk.css.map": "/levelup/static/css/1.262dcfa1.chunk.css.map",
+  "static/css/main.6c02af24.chunk.css.map": "/levelup/static/css/main.6c02af24.chunk.css.map",
   "index.html": "/levelup/index.html",
-  "precache-manifest.6403d79ec48b4973319b65443453a12c.js": "/levelup/precache-manifest.6403d79ec48b4973319b65443453a12c.js",
+  "precache-manifest.707564a85049e2ec5a167fd88e140ef9.js": "/levelup/precache-manifest.707564a85049e2ec5a167fd88e140ef9.js",
   "service-worker.js": "/levelup/service-worker.js"
 }
