@@ -1,7 +1,7 @@
 {
   "main.css": "/levelup_app/static/css/main.60fa23ef.chunk.css",
-  "main.js": "/levelup_app/static/js/main.873028da.chunk.js",
-  "main.js.map": "/levelup_app/static/js/main.873028da.chunk.js.map",
+  "main.js": "/levelup_app/static/js/main.96230785.chunk.js",
+  "main.js.map": "/levelup_app/static/js/main.96230785.chunk.js.map",
   "static/js/1.9b6a3eeb.chunk.js": "/levelup_app/static/js/1.9b6a3eeb.chunk.js",
   "static/js/1.9b6a3eeb.chunk.js.map": "/levelup_app/static/js/1.9b6a3eeb.chunk.js.map",
   "static/css/2.420f77ce.chunk.css": "/levelup_app/static/css/2.420f77ce.chunk.css",
@@ -14,6 +14,6 @@
   "static/media/bootstrap-icons.css": "/levelup_app/static/media/bootstrap-icons.b57a5890.woff2",
   "static/css/2.420f77ce.chunk.css.map": "/levelup_app/static/css/2.420f77ce.chunk.css.map",
   "index.html": "/levelup_app/index.html",
-  "precache-manifest.e9456d573da2abedbe27692763e62e31.js": "/levelup_app/precache-manifest.e9456d573da2abedbe27692763e62e31.js",
+  "precache-manifest.a62082da6070be1542913b97d18e5a0b.js": "/levelup_app/precache-manifest.a62082da6070be1542913b97d18e5a0b.js",
   "service-worker.js": "/levelup_app/service-worker.js"
 }
