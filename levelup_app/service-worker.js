@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/levelup_app/precache-manifest.f9c3d1d079e9fe5f303929da99e6fce8.js"
+  "/levelup_app/precache-manifest.a01d179c08f4fe0c3e6925618a46f45e.js"
 );
 
 workbox.clientsClaim();
